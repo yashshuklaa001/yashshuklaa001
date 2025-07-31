@@ -67,3 +67,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshuklaa001&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+<img src="https://raw.githubusercontent.com/yashshuklaa001/yashshuklaa001/output/snake.svg" alt="Snake animation" />
