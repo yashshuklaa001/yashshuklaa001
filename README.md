@@ -101,3 +101,12 @@
 <img src="https://raw.githubusercontent.com/yashshuklaa001/yashshuklaa001/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+### 📬 Contact
+
+For feedback, questions feel free to reach out:
+
+- 📧 Email: yashshukla18jul@gmail.com
+- 💼 LinkedIn: [Yash Shukla](https://www.linkedin.com/in/yashshukla01)
